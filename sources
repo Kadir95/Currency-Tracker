@@ -1,0 +1,3 @@
+https://www.bloomberg.com:443/markets/api/security/currency/cross-rates/USD,EUR
+https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC,ETH&tsyms=USD,EUR,GBP,JPY,RUR (js de çalıştı)
+https://api.cointrend.club/data/pricemultifull?fsyms=ETH&tsyms=USD,EUR,GBP,JPY,RUR

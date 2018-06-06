@@ -109,4 +109,5 @@ function main(){
     }
 }
 
+main();
 setInterval(main, update_rate);
